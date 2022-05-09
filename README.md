@@ -13,7 +13,7 @@ Bonzai command tree.
 Standalone
 
 ```
-go install github.com/rwxrob/pomo/cmd/pomo@latest
+go install github.com/arindas/pomo/cmd/pomo@latest
 ```
 
 Composed
