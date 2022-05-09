@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/rwxrob/pomo"
+	"github.com/arindas/pomo"
 )
 
 func main() {
